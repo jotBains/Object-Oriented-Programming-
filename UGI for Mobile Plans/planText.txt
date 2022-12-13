@@ -1,0 +1,5 @@
+BP,jot,3,oppophone,Android,64,1400.0,10,12,2023,1,2,15,1
+BP,jass,4,nokia,IOS,2,4.0,102,11,2000,2,2,15,4
+PP,bains,5,vivo,Windows,2,4.0,100,15,2019,2,2,wollongang
+PP,preet,6,samsung,IOS,2,4.0,103,12,2027,2,2,wollongang
+PP,charnjot,12,vivo,Windows,2,4.0,10,12,2,2,2019,Las Vegas
